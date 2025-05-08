@@ -19,7 +19,7 @@ Para explorar o conteúdo do tópico de Grafos 2, a dupla escolheu dois exercíc
 
 
 ### [1631. Path With Minimum Effort (Média)](https://leetcode.com/problems/path-with-minimum-effort/description/)
-
+Modelei o problema como um grafo onde cada célula é um nó e arestas conectam células adjacentes com peso igual à diferença de altura. Usei Dijkstra com uma fila de prioridade para minimizar o maior peso (esforço) no caminho do topo esquerdo até o canto inferior direito, atualizando apenas se o novo esforço for menor que o registrado.
 
 ## Instalação 
 **Linguagens**: C++ e C<br>
