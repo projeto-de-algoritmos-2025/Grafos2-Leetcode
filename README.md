@@ -28,7 +28,7 @@ Modelei o problema como um grafo dirigido onde cada aresta possui um custo. Usei
 Modelei o problema como um grafo onde cada célula é um nó e arestas conectam células adjacentes com peso igual à diferença de altura. Usei Dijkstra com uma fila de prioridade para minimizar o maior peso (esforço) no caminho do topo esquerdo até o canto inferior direito, atualizando apenas se o novo esforço for menor que o registrado.
 
 ## Instalação 
-**Linguagens**: C++ e C<br>
+**Linguagens**: C++<br>
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
