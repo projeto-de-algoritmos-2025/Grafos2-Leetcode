@@ -1,6 +1,6 @@
-# LeetCode
+# Juiz Virtual (LeetCode)
 
-**Número da Lista**: 2 <br>
+**Número da Lista**: 2<br>
 **Conteúdo da Disciplina**: Grafos 2 <br>
 
 ## Alunos
@@ -12,20 +12,18 @@
 ## Sobre 
 Para explorar o conteúdo do tópico de Grafos 2, a dupla escolheu dois exercícios na plataforma online [LeetCode](https://leetcode.com/): dois de nível difícil e dois de nível médio, para igualar o trabalho de cada um dos membros.
 
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### [2642. Design Graph With Shortest Path Calculator (Difícil)](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
+
+
+### [1631. Path With Minimum Effort (Média)](https://leetcode.com/problems/path-with-minimum-effort/description/)
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagens**: C++ e C<br>
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
 
