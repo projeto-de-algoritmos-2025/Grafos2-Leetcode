@@ -17,6 +17,9 @@ Para explorar o conteúdo do tópico de Grafos 2, a dupla escolheu dois exercíc
 
 ### [2642. Design Graph With Shortest Path Calculator (Difícil)](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
 
+![Resp2642](./assets/resp2642.png)
+
+Modelei o problema como um grafo dirigido onde cada aresta possui um custo. Usei Dijkstra com uma fila de prioridade para encontrar o caminho de menor custo entre dois nós, atualizando as distâncias apenas quando um caminho mais barato era encontrado. Essa abordagem é eficiente para grafos com pesos positivos e permite lidar com adições dinâmicas de arestas.
 
 ### [1631. Path With Minimum Effort (Média)](https://leetcode.com/problems/path-with-minimum-effort/description/)
 
