@@ -15,6 +15,12 @@ Para explorar o conteúdo do tópico de Grafos 2, a dupla escolheu dois exercíc
 
 ## Screenshots
 
+### [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree (Díficil)](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
+
+
+
+![Resp1488](./assets/resp1488.jpg)
+
 ### [2642. Design Graph With Shortest Path Calculator (Difícil)](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
 
 ![Resp2642](./assets/resp2642.png)
