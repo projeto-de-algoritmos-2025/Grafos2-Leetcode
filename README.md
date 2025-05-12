@@ -20,7 +20,7 @@ Para explorar o conteúdo do tópico de Grafos 2, a dupla escolheu dois exercíc
 Modelei o problema como um grafo não direcionado em que cada aresta $u,v,w$ tem peso w; calculo primeiro o peso da MST padrão com Kruskal+DSU, depois para cada aresta faço dois testes: (1) pulo-a e, se a MST ficar mais cara ou desconexa, é crítica; (2) a incluo forçadamente antes de rodar Kruskal e, se ainda atingir o mesmo peso mínimo, é pseudo-crítica.
 
 
-![Resp1488](./assets/resp1489.jpg)
+<img src="./assets/resp1489.jpg" style="width: 700px;">
 
 ### [2642. Design Graph With Shortest Path Calculator (Difícil)](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
 
@@ -36,6 +36,11 @@ Modelei o problema como um grafo onde cada célula é um nó e arestas conectam 
 
 ### Vídeo-Apresentação (Questões 2642 e 1631)
 https://github.com/user-attachments/assets/c53ac5db-a792-4f41-bdbd-35c06535c70a
+
+### Vídeo-Apresentação (Questão 1489)
+https://github.com/user-attachments/assets/fa5943df-2a3f-4f18-b151-dfb33c388572
+
+
 
 ## Instalação 
 **Linguagens**: C++<br>
